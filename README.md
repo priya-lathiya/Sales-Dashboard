@@ -18,3 +18,12 @@ The dataset covers the period from September 2019 to December 2020, capturing sa
   - Pivot Tables and Pivot Charts for analysis
   - Slicers and conditional formatting for interactivity
 - CSV data source
+
+## KPIs:
+1.	Units Sold: Total number of product units sold across all countries and months, as per the Units Sold column.
+2.	Profit: Total profit earned, calculated as the difference between Revenue and Cost for each transaction.
+        Formula: Profit = Revenue - Cost
+3.	Profit(%): Indicates how efficiently the company converts cost into profit.
+        Formula: Profit Margin = (Profit / Cost) * 100
+4.	Revenue: Gross income from product sales, recorded under the Revenue column.
+5.	Cost: Total cost associated with producing or acquiring the products, from the Cost column.
