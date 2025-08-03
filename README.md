@@ -6,3 +6,14 @@ This project is a Sales Dashboard built entirely in Microsoft Excel. It showcase
 ## Project Objective: 
 To design an interactive Excel dashboard that enables stakeholders to track and analyze monthly sales performance, including units sold, revenue, cost, and profit trends, across various products and countries. The dashboard supports data-driven decision-making by highlighting top-performing products, regional revenue contributions, and cost vs. revenue analysis through dynamic visualizations and slicers.
 
+## Time Period Analyzed: 
+The dataset covers the period from September 2019 to December 2020, capturing sales data across multiple countries and products during this 16-month span. This allows for analysis of both short-term trends and year-over-year comparisons.
+
+## Dataset used: 
+
+## Tools Used: 
+- Microsoft Excel
+  - Power Query for data preprocessing
+  - Pivot Tables and Pivot Charts for analysis
+  - Slicers and conditional formatting for interactivity
+- CSV data source
