@@ -9,6 +9,9 @@ To design an interactive Excel dashboard that enables stakeholders to track and 
 ## Time Period Analyzed: 
 The dataset covers the period from September 2019 to December 2020, capturing sales data across multiple countries and products during this 16-month span. This allows for analysis of both short-term trends and year-over-year comparisons.
 
+## Dashboard: 
+- <a href="https://github.com/priya-lathiya/Sales-Dashboard/blob/main/Sales_data.csv">Dashboard</a>
+
 ## Dataset used: 
 - <a href="https://github.com/priya-lathiya/Sales-Dashboard/blob/main/Sales_data.csv">Sales_data</a>
 
