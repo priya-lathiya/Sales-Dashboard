@@ -10,7 +10,7 @@ To design an interactive Excel dashboard that enables stakeholders to track and 
 The dataset covers the period from September 2019 to December 2020, capturing sales data across multiple countries and products during this 16-month span. This allows for analysis of both short-term trends and year-over-year comparisons.
 
 ## Dashboard: 
-- <a href="https://github.com/priya-lathiya/Sales-Dashboard/blob/main/Sales_data.csv">Dashboard</a>
+- <a href="https://github.com/priya-lathiya/Sales-Dashboard/blob/main/Dashboard.xlsx">Dashboard</a>
 - <a href="https://github.com/priya-lathiya/Sales-Dashboard/blob/main/Dashboard.png">Dashboard Screenshot</a>
 
 ## Dataset used: 
@@ -40,4 +40,24 @@ The dataset covers the period from September 2019 to December 2020, capturing sa
 5.	"Which two products contributed the most to total profit in India?"
 6.	"In which month did India generate the highest profit?"
 7.	"Which two countries showed higher profit margins compared to others during the analysis period?"
+
+## Key Insights:
+1.	Based on the total revenue analysis across all months and countries, the product **Chocolate Chip** contributed the highest revenue of **2971195**.
+- This product alone accounted for approximately **35.89%** of the overall revenue, highlighting its importance in the product portfolio.  
+
+2.	During the analysis period (Sep 2019 to Dec 2020), **United Kingdom** generated the highest total profit of **1066099**, making it the most profitable market for the business.  --- This country contributed 21.85% of the total profit across all markets.
+
+3.	Chocolate Chip is the most profitable product across all countries and months, generating the total profit of **1782717**. It is also the most significant in cost and revenue.
+  
+4.	The most profitable months were June 2020, October 2020, and December 2020. -The sharp increase in June 2020 could be due to mid-year promotions. - October 2020 likely reflects festive season sales such as Diwali. - The spike in December 2020 may be attributed to holiday and New Year purchases.
+
+5.	  In India, the two products that contributed the most to total profit were:
+-	Chocolate Chip, which showed the highest overall profit,
+-	Followed by White Chocolate Macadamia Nut.
+Their popularity and consistent sales volumes throughout the analysis period made them the leading profit generators in the Indian market.
+
+6.	In December 2020, india generated the highest profir. In December 2020, India generated the highest profit during the analysis period.
+
+7.	India and the Malaysia had the highest profit margins among all countries during the analysis period.
+
 
