@@ -11,7 +11,7 @@ The dataset covers the period from September 2019 to December 2020, capturing sa
 
 ## Dashboard: 
 - <a href="https://github.com/priya-lathiya/Sales-Dashboard/blob/main/Sales_data.csv">Dashboard</a>
-- <a href="https://github.com/priya-lathiya/Sales-Dashboard/blob/main/Dashboard.pn">Dashboard Screenshot</a>
+- <a href="https://github.com/priya-lathiya/Sales-Dashboard/blob/main/Dashboard.png">Dashboard Screenshot</a>
 
 ## Dataset used: 
 - <a href="https://github.com/priya-lathiya/Sales-Dashboard/blob/main/Sales_data.csv">Sales_data</a>
