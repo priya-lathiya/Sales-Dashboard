@@ -11,6 +11,7 @@ The dataset covers the period from September 2019 to December 2020, capturing sa
 
 ## Dashboard: 
 - <a href="https://github.com/priya-lathiya/Sales-Dashboard/blob/main/Sales_data.csv">Dashboard</a>
+- <a href="https://github.com/priya-lathiya/Sales-Dashboard/blob/main/Dashboard.pn">Dashboard Screenshot</a>
 
 ## Dataset used: 
 - <a href="https://github.com/priya-lathiya/Sales-Dashboard/blob/main/Sales_data.csv">Sales_data</a>
@@ -30,3 +31,13 @@ The dataset covers the period from September 2019 to December 2020, capturing sa
 - **Profit Margin** = `(Profit / Cost) * 100`
 4.	Revenue: Gross income from product sales, recorded under the Revenue column.
 5.	Cost: Total cost associated with producing or acquiring the products, from the Cost column.
+
+## Questions:
+1.	"Among all the products, which one contributed the most to total revenue?"
+2.	"Which country contributed the most to overall profit during the analysis period?"
+3.	"Which product had the highest profit across all countries and months?"
+4.	"During the period from September 2019 to December 2020, in which month did the profit show a significant increase?"
+5.	"Which two products contributed the most to total profit in India?"
+6.	"In which month did India generate the highest profit?"
+7.	"Which two countries showed higher profit margins compared to others during the analysis period?"
+
